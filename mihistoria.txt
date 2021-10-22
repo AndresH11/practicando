@@ -1,2 +1,3 @@
 hola amigos como van
-mi nombre es andres hernande y estoy aprendiendo a utilizar git
+mi nombre es andres hernandez y estoy aprendiendo a utilizar git
+tengo 20 años y actualmente vivo en el munucipio de ciénaga magdalena
