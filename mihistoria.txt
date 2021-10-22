@@ -1,1 +1,2 @@
 hola amigos como van
+mi nombre es andres hernande y estoy aprendiendo a utilizar git
